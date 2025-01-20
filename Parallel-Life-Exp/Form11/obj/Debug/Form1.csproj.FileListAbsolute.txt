@@ -1,0 +1,2 @@
+D:\GithubNew\13\Parallel.Life\Parallel\Parallel-Life-Exp\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\13\Parallel.Life\Parallel\Parallel-Life-Exp\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
